@@ -1,0 +1,28 @@
+{
+  "name": "admin.pro",
+  "version": "1.0.0",
+  "description": "Sistema de Administración de Propiedad Horizontal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbonifazi/admin.pro.git"
+  },
+  "author": "lbonifazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbonifazi/admin.pro/issues"
+  },
+  "homepage": "https://github.com/lbonifazi/admin.pro#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
